@@ -1,0 +1,57 @@
+   0 whoami
+   1 pwd
+   2 cd
+   3 cd ..
+   4 ls
+   5 cd
+   6 cd..
+   7 cd ..
+   8 cd tmp
+   9 ls
+  10 ls ..
+  11 touch adam.txt
+  12 ls
+  13 cd /home
+  14 cd /tmp
+  15 tree
+  16 cd /home/
+  17 mkdir humans
+  18 ls
+  19 tree
+  20 cd tmp
+  21 cd /tmp
+  22 cp /home
+  23 cd ..
+  24 home
+  25 cd home
+  26 cp /tmp/adam.txt /home/human/adam.txt
+  27 cp /tmp/adam.txt /home/adam.txt
+  28 ls
+  29 tree
+  30 cp home/adam.txt /home/humans/adam.txt
+  31 ls
+  32 tree
+  33 touch eva.txt
+  34 ls
+  35 tree
+  36 cd /tmp
+  37 ls
+  38 tree
+  39 touch eva/txt
+  40 touch eva.txt
+  41 ls
+  42 tree
+  43 cp /home/humans/eva.txt /tmp/eve.txt
+  44 ls
+  45 tree
+  46 cd /home
+  47 cp /tmp/eva.txt /home/humans/eve.txt
+  48 ls
+  49 tree
+  50 cp /tmp/adam.txt /home/humans/adam.txt
+  51 ls
+  52 tree
+  53 clear
+  54 cd
+  55 history
+  56 history > adam_eve_17_04.txt
